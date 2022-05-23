@@ -882,6 +882,9 @@ border-bottom-right-radius: 2px;
 
 }
 /* sản phẩm */
+.product{
+    margin-bottom: 10px;
+}
 .product-item{
     display: block;
     text-decoration: none;
